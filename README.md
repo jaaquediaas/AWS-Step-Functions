@@ -41,6 +41,10 @@ O fluxo segue as seguintes etapas:
 
 Exportação de Resultados — Os resultados são armazenados no bucket configurado em <S3_RESULT_BUCKET>.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jaaquediaas/AWS-Step-Functions/refs/heads/main/assets/Fluxo_Step_Functions.jpg" width="150">
+</div>
+
 ---
 
 **💡 Insights**
